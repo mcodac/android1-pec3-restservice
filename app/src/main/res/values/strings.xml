@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GitHub Followers</string>
+
+    <!-- Enter user -->
+    <string name="enter_user_hint">User</string>
+    <string name="enter_user_button">Explore followers</string>
+    <string name="repositories_text">Repositories:</string>
+    <string name="following_text">Following:</string>
+    <string name="followers_text">FOLLOWERS</string>
+    <string name="user_not_found">User not found</string>
+    <string name="request_error">Something went wrong</string>
+</resources>
